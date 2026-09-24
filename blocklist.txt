@@ -1,0 +1,4 @@
+[DS FontSynth Blocklist]
+serial  = 2
+issued  = 2026-09-24
+sig     = MEYCIQCNXK4oVInMb1HsPyBrck1nrf2m3VZaVyfmP399DfNXHQIhAKaL0h8/x9dgC/xCaayl3WeFfbEfUX2b+IED6cZOq8l9
