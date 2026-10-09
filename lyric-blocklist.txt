@@ -1,0 +1,4 @@
+[DS Lyric Studio Blocklist]
+serial  = 1
+issued  = 2026-10-09
+sig     = MEUCIQCTiIH9FG+7VcFAnU8yJl1rqFxVG2ZQJ9Cs325/pFskmQIgKcNptpakMry6ietZPbpqS5ceTv1KsW+e/6UakkDYQHY=
